@@ -430,7 +430,6 @@ header .nav li a.active:after {
     width:100%;
 }
 
-
 iframe{
     margin:0 auto;
     display:block;
@@ -439,51 +438,6 @@ iframe{
     border-radius:10px;
     padding:20px;
     box-sizing:border-box;
-}
-form {
-    max-width: 500px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #ba6b6b;
-    border-radius: 6px;
-    box-sizing:border-box;
-    background-color: rgba(0, 0, 0, 0.3);
-}
-label {
-    font-size:0.8em;
-    line-height:2em;
-    color: var(--clr_2);
-}
-input[type="text"], input[type="email"]{
-   padding:10px;
-   box-sizing:border-box;
-}
-textarea{
-    height:100px;
-    padding:10px;
-    box-sizing:border-box;
-}
-input[type="text"], input[type="email"],  textarea {
-    width:100%;
-    border: 1px solid #c6c4c0;
-    background-color:var(--clr_2);
-}
-input[type="submit"]{
-    background-color: var(--clr_0);
-    color: var(--clr_3);
-    padding: 10px 5px;
-    width: 200px;
-    font-size: 0.9em;
-    border-radius: 6px;
-    border:1px solid #333333;
-    cursor:pointer;
-    float:right;
-}
-
-input[type="submit"]:hover {
-    background-color: var(--clr_1);
-    color:var(--clr_0)
 }
 /** BACK TO TOP **/
 .Back_To_Top {
