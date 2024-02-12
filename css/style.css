@@ -431,6 +431,15 @@ header .nav li a.active:after {
 }
 
 
+iframe{
+    margin:0 auto;
+    display:block;
+    height:140vh;
+    background-color:var(--clr_2);
+    border-radius:10px;
+    padding:20px;
+    box-sizing:border-box;
+}
 form {
     max-width: 500px;
     width: 100%;
