@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     element.style.display = "none";
                 });
             } else {
-                btnHeader.textContent = "🗙";
+                btnHeader.textContent = "X";
                 BckToTop.style.display = "none";
                 // Display navigation when hamburger icon is clicked
                 c1.forEach(function(element) {
