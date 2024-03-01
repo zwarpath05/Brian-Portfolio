@@ -442,6 +442,7 @@ iframe{
     border-radius:10px;
     padding:20px;
     box-sizing:border-box;
+    width:100%;
 }
 /** BACK TO TOP **/
 .Back_To_Top {
